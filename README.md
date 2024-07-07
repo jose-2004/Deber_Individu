@@ -1,6 +1,6 @@
 ## Codigo y Ejecucion
 
-  
+  Este código implementa una interfaz gráfica en Java usando Swing para mostrar datos de conductores de Fórmula 1 almacenados en una base de datos PostgreSQL. Conecta a la base de datos y llena un combo box con años disponibles. Al seleccionar un año, se actualiza una tabla con información de los conductores que participaron en carreras ese año. Un campo de texto permite filtrar la tabla por nombre o apellido. También incluye un botón para exportar los datos de la tabla a un archivo CSV. La interfaz se ejecuta en el hilo de despacho de eventos de Swing para mantener la respuesta del programa.
 
     package InterfazGrafica;
 
@@ -219,15 +219,5 @@
 
 ![image](https://github.com/jose-2004/Deber_Individu/assets/80079088/0961d326-acc2-44b6-bff7-cb05e9d05291)
 ![image](https://github.com/jose-2004/Deber_Individu/assets/80079088/030ffefb-40c6-47b9-a594-4605a3d67cc2)
+![image](https://github.com/jose-2004/Deber_Individu/assets/80079088/ab202e1f-768e-4986-88ed-0ff97e2a5793)
 
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
