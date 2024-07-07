@@ -215,9 +215,11 @@
     }
 
 
-## Folder Structure
+## Ejecucion
 
-The workspace contains two folders by default, where:
+![image](https://github.com/jose-2004/Deber_Individu/assets/80079088/0961d326-acc2-44b6-bff7-cb05e9d05291)
+![image](https://github.com/jose-2004/Deber_Individu/assets/80079088/030ffefb-40c6-47b9-a594-4605a3d67cc2)
+
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
